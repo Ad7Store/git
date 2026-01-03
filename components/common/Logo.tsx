@@ -1,6 +1,6 @@
 import { cn } from "@/lib/utils";
 import Link from "next/link";
-import { ShoppingCart } from "lucide-react";
+import { AD7STORE } from "lucide-react";
 
 interface Props {
   className?: string;
