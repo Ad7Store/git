@@ -462,7 +462,7 @@ const AdminAnalytics = () => {
                       <Tooltip
                         formatter={(value, name) => [
   name === "revenue"
-    ? `$${Number(value ?? 0).toLocaleString()}`
+    ? `$${(value as number).toLocaleString()}`
     : value ?? 0,
   name === "revenue" ? "Revenue" : "Sales",
 ]}
