@@ -129,19 +129,19 @@ const ShopFeatures = () => {
     {
       icon: RefreshCw,
       title: "Easy Returns",
-      description: "30-day hassle-free return policy",
+      description: "7-day hassle-free return policy",
       color: "from-pink-500 to-pink-600",
       bgColor: "bg-pink-50",
       iconColor: "text-pink-600",
       details: [
-        "Return any product within 30 days of delivery with no questions asked",
+        "Return any product within 7 days of delivery with no questions asked",
         "Simple online return process - just request a return in your account",
         "Free return shipping labels provided for your convenience",
         "Full refund processed within 5-7 business days after receiving the return",
         "Exchange options available for different sizes or colors",
       ],
       benefits: [
-        "30-day return window",
+        "7-day return window",
         "No-hassle process",
         "Free return shipping",
         "Quick refund processing",
